@@ -3,7 +3,7 @@
 ## 資源整理
 將自己有用到的免費資源包括：文件、官網與程式等整理在這裡。
 
-##分類
+## 分類
 
 * [Git](#Git)
 * [Chef](#Chef)
@@ -13,7 +13,7 @@
 
 ### Git
 
-* [GitPro 2版](https://git-scm.com/book/zh-tw)
+* [GitPro](https://git-scm.com/book/zh-tw)
 * [猴子也能懂的Git入門指南](https://backlogtool.com/git-guide/tw/)
 * [Git圖解](http://marklodato.github.io/visual-git-guide/index-zh-tw.html)
 
