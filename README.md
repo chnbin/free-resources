@@ -8,6 +8,7 @@
 * [Git](#Git)
 * [Chef](#Chef)
 * [HTML/CSS](#HTML/CSS)
+* [Mercurial](#Merurial)
 * [Python](#Python)
 * [Ruby](#Ruby)
 
@@ -26,7 +27,9 @@
 
 ### HTML / CSS
 * [html & css is hard](https://internetingishard.com/html-and-css/)
-
+### Mercurial
+* [Mercurial官方網站](https://www.mercurial-scm.org/)
+* [Hg Init: a Mercurial tutorial](http://hginit.com/)，有[中文版](http://zh-hginit.readthedocs.io/en/latest/)
 ### Python
 * [Python官方文件](https://docs.python.org/3/)
 * [Learn Python the Hard Way 中文版](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details)
