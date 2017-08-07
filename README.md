@@ -32,7 +32,7 @@
 * [Hg Init: a Mercurial tutorial](http://hginit.com/)，有[中文版](http://zh-hginit.readthedocs.io/en/latest/)
 ### Python
 * [Python官方文件](https://docs.python.org/3/)
-* [Learn Python the Hard Way 中文版](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details)
+* [Learn Python the Hard Way 中文版第三版 Python 2](https://www.gitbook.com/book/flyouting/learn-python-the-hard-way-cn/details)
 
 ### Ruby
 * [Ruby官方網站](https://www.ruby-lang.org/)
