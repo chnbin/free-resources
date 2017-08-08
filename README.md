@@ -17,6 +17,7 @@
 * [GitPro](https://git-scm.com/book/zh-tw)
 * [猴子也能懂的Git入門指南](https://backlogtool.com/git-guide/tw/)
 * [Git圖解](http://marklodato.github.io/visual-git-guide/index-zh-tw.html)
+* [gitignore](https://github.com/github/gitignore)
 
 ### Chef
 * [Learn Chef](https://learn.chef.io/)
