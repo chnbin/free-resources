@@ -7,6 +7,7 @@
 
 * [Git](#Git)
 * [Chef](#Chef)
+* [django](#django)
 * [HTML/CSS](#HTML/CSS)
 * [Mercurial](#Merurial)
 * [Python](#Python)
@@ -25,6 +26,9 @@
 * Getting Started Writing Chef Cookbooks the Berkshelf Way [Part 1](http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/),[Part 2](http://misheska.com/blog/2013/06/23/getting-started-writing-chef-cookbooks-the-berkshelf-way-part2/), [Part 3](http://misheska.com/blog/2013/08/06/getting-started-writing-chef-cookbooks-the-berkshelf-way-part3/)
 
 * [Introduction to Chef on Windows: How to Write a Simple Cookbook](https://sweetcode.io/introduction-chef-windows-how-write-simple-cookbook/)
+
+### django
+* [django官方網站](https://www.djangoproject.com/)
 
 ### HTML / CSS
 * [html & css is hard](https://internetingishard.com/html-and-css/)
