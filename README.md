@@ -5,6 +5,7 @@
 
 ## 分類
 
+* [Reactive Programming](#Reactive Programming)
 * [Git](#Git)
 * [Chef](#Chef)
 * [django](#django)
@@ -12,6 +13,9 @@
 * [Mercurial](#Merurial)
 * [Python](#Python)
 * [Ruby](#Ruby)
+
+### Reactive Programming
+* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ### Git
 
