@@ -5,7 +5,7 @@
 
 ## 分類
 
-* [Reactive Programming](#Reactive Programming)
+* [rxjs](#rxjs)
 * [Git](#Git)
 * [Chef](#Chef)
 * [django](#django)
@@ -14,7 +14,7 @@
 * [Python](#Python)
 * [Ruby](#Ruby)
 
-### Reactive Programming
+### rxjs
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ### Git
