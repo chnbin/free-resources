@@ -34,8 +34,20 @@
 ### django
 * [django官方網站](https://www.djangoproject.com/)
 
+### DOM
+* [The Odin Project: DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation)
+* [DOM Enlightenment](http://domenlightenment.com/)
+
 ### HTML / CSS
 * [html & css is hard](https://internetingishard.com/html-and-css/)
+
+### Javascript
+* [MDN web docs JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [從Promise開始的JavaScript異步生活](http://promise.eddychang.me/)
+* [Eloquent JavaScript 3rd](https://eloquentjavascript.net/index.html)
+* [JavaScript Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/)
+* [Daily JS](https://medium.com/dailyjs)
+
 ### Mercurial
 * [Mercurial官方網站](https://www.mercurial-scm.org/)
 * [Hg Init: a Mercurial tutorial](http://hginit.com/)，有[中文版](http://zh-hginit.readthedocs.io/en/latest/)
